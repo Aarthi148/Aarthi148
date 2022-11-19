@@ -43,7 +43,7 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
 Batch Name : B3-3M5E
 
 Team Id : PNT2022TMID47149
-- [@Vijayendran](https://www.github.com/VijayendranSL13)
+- [@Vijayendran](https://github.com/account)
 - [@Mohamed Zakir Husain](https://www.github.com/mohamedzakirhusain)
 - [@Ummul Nasiha](https://www.github.com/Nasiha19)
 - [@Sumaiya Farveen](https://www.github.com/sumaiya2206)
