@@ -44,9 +44,7 @@ Batch Name : B3-3M5E
 
 Team Id : PNT2022TMID47149
 - [@aarthi](https://github.com/account)
-- [@baviya](https://www.github.com/mohamedzakirhusain)
-- [@Ummul Nasiha](https://www.github.com/Nasiha19)
-- [@Sumaiya Farveen](https://www.github.com/sumaiya2206)
+- [@baviya](https://github.com/account)
 
 
 ## Support
