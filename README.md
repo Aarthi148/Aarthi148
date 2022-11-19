@@ -40,9 +40,9 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
    ![Logo](https://innovaremedia.com/wp-content/uploads/2019/12/hospital.gif)
 
 ## 💫 Project Contributors
-Batch Name : B8-2A4E
+Batch Name : B3-3M5E
 
-Team Id : PNT2022TMID38936
+Team Id : PNT2022TMID47149
 - [@Vijayendran](https://www.github.com/VijayendranSL13)
 - [@Mohamed Zakir Husain](https://www.github.com/mohamedzakirhusain)
 - [@Ummul Nasiha](https://www.github.com/Nasiha19)
@@ -56,4 +56,4 @@ For support, please reach out to us at email slvijayendran@gmail.com # mohamedza
 ![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g)
 
 
-**********|**| 🎓 Krishnasamy College Of Engineering And Technology |**|**********
+**********|**| 🎓 MRK INSTITUTE OF TECHNOLOGY|**|**********
