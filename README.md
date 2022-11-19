@@ -50,10 +50,9 @@ Team Id : PNT2022TMID47149
 
 
 ## Support
-
-For support, please reach out to us at email slvijayendran@gmail.com # mohamedzakir.n02@gmail.com
+For support, please reach out to us at emailD daarthi2002@gmail.com # baviraja2002@gmail.com
 
 ![Logo](https://media1.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=790b7611df04fcf78be01764e6121ed07c106223750aabd6&rid=giphy.gif&ct=g)
 
 
-**********|**| 🎓 MRK INSTITUTE OF TECHNOLOGY|**|**********
+**********|**| 🎓 MRK INSTITUTE OF TECHNOLOGY |**|**********
